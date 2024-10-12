@@ -11,5 +11,5 @@
     "content-wind": "latest",
     "nuxt": "latest"
   },
-  "packageManager": "pnpm@8.6.0"  // Ajoute cette ligne pour définir la version de pnpm
+  "packageManager": "pnpm@8.6.0"
 }
